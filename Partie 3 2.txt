@@ -1,0 +1,1 @@
+Pour la question 2 du Partie 3, une amélioration tel que l'optimisation et la validation. L'ajustement des hyperparamètres à l'aide de techniques telles que la validation croisée et la recherche en grille peut aider à optimiser les performances de chaque modèle.
